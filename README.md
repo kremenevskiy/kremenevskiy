@@ -1,12 +1,15 @@
 ### Hello 🐣
 I am a student at [BSUIR](https://www.bsuir.by/) and making some steps in the world of Data Science
-
+<div r style="display: inline-block; justify-content: space-evenly;">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremenevskiy&langs_count=6&hide=javascript,css&theme=dark">
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=kremenevskiy&count_private=true&show_icons=true&theme=dark&hide_title=true">
-<br />
-<div style="display: flex; width: 100%; justify-content: space-evenly;">
-  <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/Flame.gif?raw=true">
+<div style="justify-content: space-evenly;">
+  <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/Flame.gif?raw=true" width="200"">
+  <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/hamster.gif?raw=true" width="200"">
 </div>
+</div>
+<br />
+
 
 
 ## Social Media
