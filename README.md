@@ -5,7 +5,7 @@ I am a student at [BSUIR](https://www.bsuir.by/) and making some steps in the wo
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=kremenevskiy&count_private=true&show_icons=true&theme=dark&hide_title=true">
 <div style="justify-content: space-evenly;">
   <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/Flame.gif?raw=true" width="200"">
-  <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/hot-disco.gif?raw=true" align="right" width="200"">
+  <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/chill.gif?raw=true" align="right" width="200"">
 </div>
 </div>
 <br />
