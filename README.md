@@ -5,7 +5,7 @@ I am Machine Learning Engineer with hands-on experience in machine learning proj
   <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/Flame.gif?raw=true" width="200"">
   <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/chill.gif?raw=true" align="right" width="170"">
 </div>
-<br />
+<br>
 
 
 
