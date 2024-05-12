@@ -15,4 +15,6 @@ I am Machine Learning Engineer with hands-on experience in machine learning proj
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kremenevskiy) &emsp;
 [![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kremenevskiy/) &emsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/kremenevskiy/) &emsp;
+<br>
+<br>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kremenevskiy)](https://leetcode.com/kremenevskiy)
